@@ -51,7 +51,7 @@ _Note que este enunciado só lhe fornece as informações não passíveis de ser
 
 1. Os campos do formulário têm um tamanho de 50.
 2. O seletor _How did you find out about this newsletter?_ deve apresentar-se da seguinte forma:
-<img width="365" alt="Screenshot 2023-05-16 at 15 42 23" src="https://github.com/claudioduarte/workshop-hora-extra-html/assets/4729521/6dbeee78-c6d0-4f70-94c3-0331d722a536">
+<img width="365" alt="Screenshot 2023-05-16 at 15 42 23" src="https://github.com/claudioduarte/workshop-hora-extra-html/assets/4729521/60c02bbe-1988-4ea7-b911-689ad452d4fe">
 
 3. O formulário deve ser enviado através do método _post_ , processado pela página [http://blogs.ua.pt/heldercaixinha/form_result.php](http://blogs.ua.pt/heldercaixinha/form_result.php) e o resultado deve ser mostrado numa nova janela/tab do browser.
 
@@ -70,4 +70,4 @@ e. Selecionar ‘Adapt to plugin container width’ e ‘Show Friend’s Faces�
 
 **ATENÇÃO:** Atente às instruções fornecidas pelo site do [Facebook Developers](https://developers.facebook.com/docs/plugins/page-plugin).
 
-<img width="627" alt="Screenshot 2023-05-16 at 15 42 33" src="https://github.com/claudioduarte/workshop-hora-extra-html/assets/4729521/67ebe2e0-1bcd-455f-98d4-6042b73d8e72">
+<img width="627" alt="Screenshot 2023-05-16 at 15 42 33" src="https://github.com/claudioduarte/workshop-hora-extra-html/assets/4729521/c182c1ee-0e0f-4317-b3b4-a656745dcd23">
